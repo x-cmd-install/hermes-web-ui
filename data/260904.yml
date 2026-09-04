@@ -1,26 +1,28 @@
 about:
-  description: Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
+  description:
+  |
+    Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
   license: NOASSERTION
   homepage: https://hermes-studio.ai
-  head: c488c5c
+  head: 8544f4b
   archived: false
-  latestVersion: hermes-0.21.0-runtime
-  collectedAt: 2026-09-04T04:20:41Z
+  latestVersion: v0.7.17
+  collectedAt: 2026-09-04T19:24:49Z
 timeline:
   created: 2026-04-11
   lastCommit: 2026-09-04
-  lastRelease: 2026-09-03
+  lastRelease: 2026-09-04
 popularity:
-  star: 10826
+  star: 10847
   watcher: 41
-  fork: 1310
-  release: 126
+  fork: 1312
+  release: 127
   contributor: 89
-  pullRequest: 418
-  issue: 1223
+  pullRequest: 1635
+  issue: 1224
 language:
-  TypeScript: 15474539
-  Vue: 2694799
+  TypeScript: 15582589
+  Vue: 2712920
   Python: 518723
   C++: 495115
   JavaScript: 273855
@@ -29,11 +31,19 @@ language:
   NSIS: 8229
   HTML: 4042
   Dockerfile: 1523
-totalLine: 19504563
+totalBytes: 19630734
 recent:
   last30d:
     since: 2026-08-05
-    release: 22
+    release: 23
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 40
     mergedPR: 0
     openPR: 0
     closedIssue: 0
@@ -41,7 +51,7 @@ recent:
     commit: 0
   last90d:
     since: 2026-06-06
-    release: 57
+    release: 58
     mergedPR: 0
     openPR: 0
     closedIssue: 0
@@ -63,3 +73,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 127
+  mergedPR: 1212
+  openPR: 81
+  closedIssue: 957
+  openIssue: 267
+  commit: 1384
+---
+---
+
