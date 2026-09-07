@@ -2,24 +2,24 @@ about:
   description: "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics "
   license: NOASSERTION
   homepage: https://hermes-studio.ai
-  head: 999111e
+  head: 66066fc
   archived: false
   latestVersion: "v0.7.18"
-  collectedAt: 2026-09-07T05:22:37Z
+  collectedAt: 2026-09-07T19:09:58Z
 timeline:
   created: 2026-04-11
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-06
 popularity:
-  star: 10901
+  star: 10918
   watcher: 42
   fork: 1315
   release: 128
   contributor: 92
-  pullRequest: 1672
-  issue: 1234
+  pullRequest: 1676
+  issue: 1237
 language:
-  TypeScript: 15966556
+  TypeScript: 16007831
   Vue: 2747532
   Python: 520444
   C++: 495115
@@ -29,7 +29,7 @@ language:
   NSIS: 8229
   HTML: 4042
   Dockerfile: 1523
-totalBytes: 20062462
+totalBytes: 20103737
 recent:
   last30d:
     since: 2026-08-08
@@ -81,20 +81,20 @@ recent:
     commit: 0
 total:
   release: 128
-  mergedPR: 1243
-  openPR: 78
+  mergedPR: 1244
+  openPR: 81
   closedIssue: 958
-  openIssue: 276
-  commit: 1418
+  openIssue: 279
+  commit: 1419
 ---
 path: /home/runner/.x-repo/github.com/EKKOLearnAI/hermes-web-ui
-collectedAt: 2026-09-07T05:22:53Z
+collectedAt: 2026-09-07T19:10:13Z
 loc:
   TypeScript:
-    code: 361924
-    comments: 4057
-    blanks: 33352
-    files: 1430
+    code: 362519
+    comments: 4066
+    blanks: 33375
+    files: 1441
   Json:
     code: 41098
     comments: 0
@@ -162,19 +162,19 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 12779
-    blanks: 3694
-    files: 91
+    comments: 12832
+    blanks: 3708
+    files: 95
 total:
-  code: 514042
-  comments: 17745
-  blanks: 48622
-  files: 1829
+  code: 514637
+  comments: 17807
+  blanks: 48659
+  files: 1844
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:22:55+00:00
+  collectedAt: 2026-09-07T19:10:20+00:00
   platform:
     darwin/arm64:
       name:  Hermes.Studio-0.7.18-arm64.zip
