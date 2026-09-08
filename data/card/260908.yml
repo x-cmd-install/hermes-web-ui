@@ -1,0 +1,182 @@
+about:
+  description: "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics "
+  license: NOASSERTION
+  homepage: https://hermes-studio.ai
+  head: c63d9a5
+  archived: false
+  latestVersion: "v0.7.18"
+  collectedAt: 2026-09-08T02:31:11Z
+timeline:
+  created: 2026-04-11
+  lastCommit: 2026-09-08
+  lastRelease: 2026-09-06
+popularity:
+  star: 10924
+  watcher: 42
+  fork: 1316
+  release: 128
+  contributor: 93
+  pullRequest: 1678
+  issue: 1238
+language:
+  TypeScript: 16046885
+  Vue: 2761490
+  Python: 520444
+  C++: 495115
+  JavaScript: 285283
+  SCSS: 25115
+  Shell: 8623
+  NSIS: 8229
+  HTML: 4042
+  Dockerfile: 1523
+totalBytes: 20156749
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 23
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-10
+    release: 39
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-10
+    release: 56
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-12
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-13
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-18
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 128
+  mergedPR: 1249
+  openPR: 78
+  closedIssue: 961
+  openIssue: 277
+  commit: 1424
+---
+path: /home/runner/.x-repo/github.com/EKKOLearnAI/hermes-web-ui
+collectedAt: 2026-09-08T02:31:27Z
+loc:
+  TypeScript:
+    code: 363341
+    comments: 4069
+    blanks: 33453
+    files: 1443
+  Json:
+    code: 41098
+    comments: 0
+    blanks: 2
+    files: 21
+  Cpp:
+    code: 12368
+    comments: 4
+    blanks: 940
+    files: 2
+  Python:
+    code: 11284
+    comments: 253
+    blanks: 1527
+    files: 46
+  Vue:
+    code: 8678
+    comments: 54
+    blanks: 620
+    files: 185
+  JavaScript:
+    code: 7238
+    comments: 105
+    blanks: 570
+    files: 33
+  Sass:
+    code: 773
+    comments: 62
+    blanks: 136
+    files: 6
+  Sh:
+    code: 214
+    comments: 3
+    blanks: 47
+    files: 3
+  Yaml:
+    code: 122
+    comments: 14
+    blanks: 11
+    files: 2
+  Pan:
+    code: 41
+    comments: 6
+    blanks: 10
+    files: 2
+  Ini:
+    code: 38
+    comments: 0
+    blanks: 0
+    files: 2
+  Dockerfile:
+    code: 37
+    comments: 2
+    blanks: 11
+    files: 1
+  Html:
+    code: 30
+    comments: 1
+    blanks: 4
+    files: 1
+  Svg:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 4
+  Markdown:
+    code: 0
+    comments: 12837
+    blanks: 3710
+    files: 96
+total:
+  code: 515795
+  comments: 17817
+  blanks: 48771
+  files: 1847
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	Hermes.Studio-0.7.18-arm64.zip	https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.18/Hermes.Studio-0.7.18-arm64.zip	241597669	20
+darwin/amd64	Hermes.Studio-0.7.18-x64.zip	https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.18/Hermes.Studio-0.7.18-x64.zip	248333993	20
+linux/arm64	latest-linux-arm64.yml	https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.18/latest-linux-arm64.yml	393	37
+linux/amd64	latest-linux.yml	https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.18/latest-linux.yml	395	22
+win/arm64	Hermes.Studio-0.7.18-arm64.zip	https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.18/Hermes.Studio-0.7.18-arm64.zip	241597669	20
+win/amd64	Hermes.Studio-0.7.18-x64.zip	https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.18/Hermes.Studio-0.7.18-x64.zip	248333993	20
