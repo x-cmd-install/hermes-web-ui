@@ -2,38 +2,38 @@ about:
   description: "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics "
   license: NOASSERTION
   homepage: https://hermes-studio.ai
-  head: cc87ff5
+  head: a20feca
   archived: false
   latestVersion: "v1.0.2"
   latestRelease: "v1.0.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:35:06Z
+  collectedAt: 2026-09-09T19:44:21Z
 timeline:
   created: 2026-04-11
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-09
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 10953
-  watcher: 42
-  fork: 1319
+  star: 10980
+  watcher: 43
+  fork: 1320
   release: 129
   contributor: 93
-  pullRequest: 1696
-  issue: 1245
+  pullRequest: 1703
+  issue: 1246
 language:
-  TypeScript: 16119789
-  Vue: 2764761
+  TypeScript: 16204668
+  Vue: 2769509
   Python: 520444
-  C++: 495211
-  JavaScript: 289590
+  C++: 495207
+  JavaScript: 292958
   SCSS: 25115
-  Shell: 8623
+  Shell: 9070
   NSIS: 8460
   HTML: 4037
   Dockerfile: 1523
-totalBytes: 20237553
+totalBytes: 20330991
 recent:
   last30d:
     since: 2026-08-10
@@ -85,22 +85,22 @@ recent:
     commit: 0
 total:
   release: 129
-  mergedPR: 1254
-  openPR: 91
-  closedIssue: 965
+  mergedPR: 1265
+  openPR: 86
+  closedIssue: 966
   openIssue: 280
-  commit: 1429
+  commit: 1440
 ---
 path: /home/runner/.x-repo/github.com/EKKOLearnAI/hermes-web-ui
-collectedAt: 2026-09-09T05:35:22Z
+collectedAt: 2026-09-09T19:44:38Z
 loc:
   TypeScript:
-    code: 364691
-    comments: 4089
-    blanks: 33560
-    files: 1457
+    code: 366392
+    comments: 4109
+    blanks: 33699
+    files: 1467
   Json:
-    code: 41100
+    code: 41191
     comments: 0
     blanks: 2
     files: 21
@@ -115,27 +115,27 @@ loc:
     blanks: 1527
     files: 46
   Vue:
-    code: 8684
+    code: 8704
     comments: 54
-    blanks: 622
-    files: 186
+    blanks: 624
+    files: 187
   JavaScript:
-    code: 7331
-    comments: 110
-    blanks: 572
-    files: 36
+    code: 7401
+    comments: 112
+    blanks: 575
+    files: 37
   Sass:
     code: 773
     comments: 62
     blanks: 136
     files: 6
   Sh:
-    code: 214
-    comments: 3
-    blanks: 47
-    files: 3
+    code: 224
+    comments: 4
+    blanks: 50
+    files: 4
   Yaml:
-    code: 122
+    code: 124
     comments: 14
     blanks: 11
     files: 2
@@ -166,14 +166,14 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 12954
-    blanks: 3756
-    files: 97
+    comments: 13040
+    blanks: 3781
+    files: 98
 total:
-  code: 517317
-  comments: 17959
-  blanks: 48929
-  files: 1866
+  code: 519371
+  comments: 18068
+  blanks: 49115
+  files: 1880
 ---
 
 ---
