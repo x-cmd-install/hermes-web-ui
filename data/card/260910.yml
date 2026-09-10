@@ -1,0 +1,179 @@
+about:
+  description: "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics "
+  license: NOASSERTION
+  homepage: https://hermes-studio.ai
+  head: 6f0f335
+  archived: false
+  latestVersion: "v1.0.2"
+  latestRelease: "v1.0.2"
+  latestPrerelease: ""
+  collectedAt: 2026-09-10T05:46:27Z
+timeline:
+  created: 2026-04-11
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 
+popularity:
+  star: 10995
+  watcher: 43
+  fork: 1323
+  release: 129
+  contributor: 93
+  pullRequest: 1710
+  issue: 1247
+language:
+  TypeScript: 16222274
+  Vue: 2774392
+  Python: 520444
+  C++: 495207
+  JavaScript: 293279
+  SCSS: 25115
+  Shell: 9070
+  NSIS: 8460
+  HTML: 4037
+  Dockerfile: 1523
+totalBytes: 20353801
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 22
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-12
+    release: 38
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-12
+    release: 56
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-14
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-15
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-20
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 129
+  mergedPR: 1267
+  openPR: 91
+  closedIssue: 966
+  openIssue: 281
+  commit: 1442
+---
+path: /home/runner/.x-repo/github.com/EKKOLearnAI/hermes-web-ui
+collectedAt: 2026-09-10T05:46:43Z
+loc:
+  TypeScript:
+    code: 366734
+    comments: 4112
+    blanks: 33735
+    files: 1476
+  Json:
+    code: 41231
+    comments: 0
+    blanks: 2
+    files: 21
+  Cpp:
+    code: 12368
+    comments: 4
+    blanks: 940
+    files: 2
+  Python:
+    code: 11284
+    comments: 253
+    blanks: 1527
+    files: 46
+  Vue:
+    code: 8713
+    comments: 54
+    blanks: 626
+    files: 188
+  JavaScript:
+    code: 7404
+    comments: 112
+    blanks: 575
+    files: 37
+  Sass:
+    code: 773
+    comments: 62
+    blanks: 136
+    files: 6
+  Sh:
+    code: 224
+    comments: 4
+    blanks: 50
+    files: 4
+  Yaml:
+    code: 124
+    comments: 14
+    blanks: 11
+    files: 2
+  Pan:
+    code: 41
+    comments: 6
+    blanks: 10
+    files: 2
+  Ini:
+    code: 38
+    comments: 0
+    blanks: 0
+    files: 2
+  Dockerfile:
+    code: 37
+    comments: 2
+    blanks: 11
+    files: 1
+  Html:
+    code: 30
+    comments: 1
+    blanks: 4
+    files: 1
+  Svg:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 4
+  Markdown:
+    code: 0
+    comments: 13045
+    blanks: 3782
+    files: 98
+total:
+  code: 519889
+  comments: 18080
+  blanks: 49163
+  files: 1890
+---
+
+---
