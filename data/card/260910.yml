@@ -1,43 +1,43 @@
 about:
-  description: "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics "
+  description: "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web."
   license: NOASSERTION
-  homepage: https://hermes-studio.ai
-  head: 6f0f335
+  homepage: https://ekkostudio.xyz
+  head: b09dafb
   archived: false
-  latestVersion: "v1.0.2"
-  latestRelease: "v1.0.2"
+  latestVersion: "v0.7.19"
+  latestRelease: "v0.7.19"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:46:27Z
+  collectedAt: 2026-09-10T17:13:36Z
 timeline:
   created: 2026-04-11
   lastCommit: 2026-09-10
-  lastVersion: 2026-09-09
-  lastRelease: 2026-09-09
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 10995
+  star: 11008
   watcher: 43
-  fork: 1323
-  release: 129
+  fork: 1322
+  release: 131
   contributor: 93
-  pullRequest: 1710
-  issue: 1247
+  pullRequest: 1716
+  issue: 1251
 language:
-  TypeScript: 16222274
+  TypeScript: 16295123
   Vue: 2774392
   Python: 520444
   C++: 495207
-  JavaScript: 293279
+  JavaScript: 295135
   SCSS: 25115
   Shell: 9070
   NSIS: 8460
   HTML: 4037
   Dockerfile: 1523
-totalBytes: 20353801
+totalBytes: 20428506
 recent:
   last30d:
     since: 2026-08-11
-    release: 22
+    release: 24
     mergedPR: 0
     openPR: 0
     closedIssue: 0
@@ -45,7 +45,7 @@ recent:
     commit: 0
   last60d:
     since: 2026-07-12
-    release: 38
+    release: 40
     mergedPR: 0
     openPR: 0
     closedIssue: 0
@@ -53,7 +53,7 @@ recent:
     commit: 0
   last90d:
     since: 2026-06-12
-    release: 56
+    release: 58
     mergedPR: 0
     openPR: 0
     closedIssue: 0
@@ -84,23 +84,23 @@ recent:
     openIssue: 0
     commit: 0
 total:
-  release: 129
-  mergedPR: 1267
-  openPR: 91
-  closedIssue: 966
-  openIssue: 281
-  commit: 1442
+  release: 131
+  mergedPR: 1274
+  openPR: 81
+  closedIssue: 967
+  openIssue: 284
+  commit: 1449
 ---
 path: /home/runner/.x-repo/github.com/EKKOLearnAI/hermes-web-ui
-collectedAt: 2026-09-10T05:46:43Z
+collectedAt: 2026-09-10T17:13:50Z
 loc:
   TypeScript:
-    code: 366734
-    comments: 4112
-    blanks: 33735
-    files: 1476
+    code: 367689
+    comments: 4113
+    blanks: 33768
+    files: 1482
   Json:
-    code: 41231
+    code: 41274
     comments: 0
     blanks: 2
     files: 21
@@ -120,7 +120,7 @@ loc:
     blanks: 626
     files: 188
   JavaScript:
-    code: 7404
+    code: 7423
     comments: 112
     blanks: 575
     files: 37
@@ -166,14 +166,14 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 13045
-    blanks: 3782
-    files: 98
+    comments: 13112
+    blanks: 3807
+    files: 100
 total:
-  code: 519889
-  comments: 18080
-  blanks: 49163
-  files: 1890
+  code: 520906
+  comments: 18148
+  blanks: 49221
+  files: 1898
 ---
 
 ---
