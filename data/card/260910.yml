@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.7.19"
   latestRelease: "v0.7.19"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:13:36Z
+  collectedAt: 2026-09-10T23:59:23Z
 timeline:
   created: 2026-04-11
   lastCommit: 2026-09-10
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 11008
   watcher: 43
-  fork: 1322
+  fork: 1323
   release: 131
   contributor: 93
-  pullRequest: 1716
+  pullRequest: 1717
   issue: 1251
 language:
   TypeScript: 16295123
@@ -86,13 +86,13 @@ recent:
 total:
   release: 131
   mergedPR: 1274
-  openPR: 81
-  closedIssue: 967
-  openIssue: 284
+  openPR: 82
+  closedIssue: 969
+  openIssue: 282
   commit: 1449
 ---
 path: /home/runner/.x-repo/github.com/EKKOLearnAI/hermes-web-ui
-collectedAt: 2026-09-10T17:13:50Z
+collectedAt: 2026-09-10T23:59:48Z
 loc:
   TypeScript:
     code: 367689
