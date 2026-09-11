@@ -14,12 +14,12 @@ x install hermes-web-ui
 
 ## Code insight
 
-Total: **450,391** lines of code across **1742** files in the top 5 languages.
+Total: **451,196** lines of code across **1748** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 368,042 | 4,118 | 33,803 | 1485 |
-| Json | 41,274 | 0 | 2 | 21 |
+| TypeScript | 368,670 | 4,134 | 33,839 | 1490 |
+| Json | 41,437 | 0 | 2 | 22 |
 | Cpp | 12,368 | 4 | 940 | 2 |
 | Python | 11,284 | 253 | 1,527 | 46 |
 | Vue | 8,713 | 54 | 626 | 188 |
@@ -38,11 +38,11 @@ Total: **450,391** lines of code across **1742** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,011 · **Forks**: 1,324 · **Open issues**: 1,252 · **Contributors**: 94
+- **Stars**: 11,018 · **Forks**: 1,330 · **Open issues**: 1,252 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 131 · **Merged PRs**: 1276 · **Open PRs**: 82 · **Closed issues**: 971 · **Open issues**: 281 · **Commits**: 1451
+- **Releases**: 131 · **Merged PRs**: 1280 · **Open PRs**: 85 · **Closed issues**: 971 · **Open issues**: 281 · **Commits**: 1455
 
 ## Recent activity
 
@@ -89,4 +89,4 @@ Install metadata for hermes-web-ui lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:38:41Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:13:20Z._
