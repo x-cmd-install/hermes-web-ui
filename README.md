@@ -14,14 +14,14 @@ x install hermes-web-ui
 
 ## Code insight
 
-Total: **468,289** lines of code across **1816** files in the top 5 languages.
+Total: **468,681** lines of code across **1816** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 374,088 | 4,231 | 34,051 | 1547 |
+| TypeScript | 374,459 | 4,249 | 34,077 | 1547 |
 | Json | 52,508 | 0 | 2 | 26 |
 | Cpp | 12,368 | 4 | 940 | 2 |
-| Python | 11,296 | 253 | 1,527 | 46 |
+| Python | 11,317 | 260 | 1,527 | 46 |
 | Vue | 8,787 | 54 | 629 | 195 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **468,289** lines of code across **1816** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.21` (2026-09-12)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 11,041 · **Forks**: 1,338 · **Open issues**: 1,254 · **Contributors**: 95
+- **Stars**: 11,062 · **Forks**: 1,341 · **Open issues**: 1,262 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 133 · **Merged PRs**: 1289 · **Open PRs**: 88 · **Closed issues**: 971 · **Open issues**: 283 · **Commits**: 1463
+- **Releases**: 133 · **Merged PRs**: 1293 · **Open PRs**: 90 · **Closed issues**: 971 · **Open issues**: 291 · **Commits**: 1467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 41 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 59 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 40 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 58 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for hermes-web-ui lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:35:21Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:59:21Z._
