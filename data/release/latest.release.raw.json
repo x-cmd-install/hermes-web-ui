@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 254,
       "digest": "sha256:7bc27320cbd6730a17d63d5cb918328afe1b33bf7aaca13ffd2e79a833b78ad1",
-      "download_count": 8,
+      "download_count": 27,
       "created_at": "2026-09-16T02:17:33Z",
       "updated_at": "2026-09-16T02:17:33Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/hermes-web-ui-0.7.22.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 131943797,
       "digest": "sha256:b2f34f515972a5bfcf04a5b7ea47d2687e6f7780feed5bf3e2cf719b77bd7b4c",
-      "download_count": 18,
+      "download_count": 62,
       "created_at": "2026-09-16T02:17:33Z",
       "updated_at": "2026-09-16T02:17:37Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/hermes-web-ui-0.7.22.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 94,
       "digest": "sha256:1c1fe49bc09706fe48fbb564fd5830feb141d7727f561fedc67cf4a388fa28fc",
-      "download_count": 6,
+      "download_count": 32,
       "created_at": "2026-09-16T02:17:33Z",
       "updated_at": "2026-09-16T02:17:33Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/hermes-web-ui-0.7.22.tar.gz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 173742500,
       "digest": "sha256:37c7f3e10435d24aad61743f8a4414eda06bfa4cebc61400ad101670fac521b8",
-      "download_count": 25,
+      "download_count": 106,
       "created_at": "2026-09-16T02:19:11Z",
       "updated_at": "2026-09-16T02:19:16Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-amd64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 232921742,
       "digest": "sha256:2032fef71c1e72266adc7dceb597d872b415d620860010d3993cd263a5d632b2",
-      "download_count": 5,
+      "download_count": 27,
       "created_at": "2026-09-16T02:18:01Z",
       "updated_at": "2026-09-16T02:18:11Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-arm64.AppImage"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 240447491,
       "digest": "sha256:182a59437fed9b6239904e81f9acc9e2978d898cf1dba44ad87c5ec60ebad54b",
-      "download_count": 34,
+      "download_count": 160,
       "created_at": "2026-09-16T02:22:43Z",
       "updated_at": "2026-09-16T02:22:56Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-arm64.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 248856,
       "digest": "sha256:9f594b456cae8151b0b2461c725a1f800399ecdd0f97b949f209ba3d355004a3",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-09-16T02:22:43Z",
       "updated_at": "2026-09-16T02:22:44Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-arm64.dmg.blockmap"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 241985471,
       "digest": "sha256:3db38801aca3f9e644362aa7350b1db1104e3cba59338995e07addbf0fb15105",
-      "download_count": 84,
+      "download_count": 390,
       "created_at": "2026-09-16T02:22:43Z",
       "updated_at": "2026-09-16T02:22:52Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 239969,
       "digest": "sha256:1b13cd1c6ecdd52f8d5edf9ab5217f3956723e2add406789a710c7399520a4ff",
-      "download_count": 65,
+      "download_count": 302,
       "created_at": "2026-09-16T02:22:43Z",
       "updated_at": "2026-09-16T02:22:44Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-arm64.zip.blockmap"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 247106631,
       "digest": "sha256:e75d5e4b7639e7f5b37991fd09335b845d8c91cf523a56308e19f8f07bf9da5c",
-      "download_count": 18,
+      "download_count": 67,
       "created_at": "2026-09-16T02:27:40Z",
       "updated_at": "2026-09-16T02:27:50Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-x64.dmg"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 256918,
       "digest": "sha256:4287270a92112baa242dd12077f65bbaedbfdf6ca12ccc56dc3f904d2d286b77",
-      "download_count": 3,
+      "download_count": 11,
       "created_at": "2026-09-16T02:27:40Z",
       "updated_at": "2026-09-16T02:27:40Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-x64.dmg.blockmap"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 190504740,
       "digest": "sha256:ef021581e559a8da9433250aeb6abd77eea8156bdf5535661661ff73350db037",
-      "download_count": 279,
+      "download_count": 1655,
       "created_at": "2026-09-16T02:20:06Z",
       "updated_at": "2026-09-16T02:20:13Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-x64.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 195676,
       "digest": "sha256:414fe560f80af683375bf5c7fba1810d076798e880059d3560e8442614f6849b",
-      "download_count": 247,
+      "download_count": 1321,
       "created_at": "2026-09-16T02:20:06Z",
       "updated_at": "2026-09-16T02:20:06Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-x64.exe.blockmap"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 248726762,
       "digest": "sha256:3a23faf2d4761f51999f8fa30445cc38ad6a4c58a689855d09fed30440ed71f2",
-      "download_count": 18,
+      "download_count": 89,
       "created_at": "2026-09-16T02:27:40Z",
       "updated_at": "2026-09-16T02:27:59Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-x64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 248428,
       "digest": "sha256:0bd24287a971cd452afda43c35935b3ca37cadb8e866a9a0da954d2a6fc30c05",
-      "download_count": 10,
+      "download_count": 45,
       "created_at": "2026-09-16T02:27:40Z",
       "updated_at": "2026-09-16T02:27:40Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-x64.zip.blockmap"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 229418416,
       "digest": "sha256:3153a49367753fbabd0734026ace14b22f1fe3cb9a874f3fedd94d60e76061eb",
-      "download_count": 4,
+      "download_count": 73,
       "created_at": "2026-09-16T02:19:11Z",
       "updated_at": "2026-09-16T02:19:18Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/Hermes.Studio-0.7.22-x86_64.AppImage"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 393,
       "digest": "sha256:b9ed1f7ff6225b871e7b65bc81823707f78e8edf45959de68d6d1de20bf3c5c8",
-      "download_count": 20,
+      "download_count": 50,
       "created_at": "2026-09-16T02:18:01Z",
       "updated_at": "2026-09-16T02:18:01Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/latest-linux-arm64.yml"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 395,
       "digest": "sha256:8df538ac9464312a1338b66e6df777d4fbc9f75eb4be7204cc3cc1fde9ba4741",
-      "download_count": 43,
+      "download_count": 283,
       "created_at": "2026-09-16T02:19:11Z",
       "updated_at": "2026-09-16T02:19:11Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/latest-linux.yml"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 837,
       "digest": "sha256:70d148905b0b6d1f48ca2654a27e57957e834e271594c9ba5b56de547dced156",
-      "download_count": 299,
+      "download_count": 1751,
       "created_at": "2026-09-16T02:28:19Z",
       "updated_at": "2026-09-16T02:28:19Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/latest-mac.yml"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 354,
       "digest": "sha256:52936d039400074a77214eb64bcae53c6dfe646170b8d2b49b79b171c4fc1bd2",
-      "download_count": 694,
+      "download_count": 5475,
       "created_at": "2026-09-16T02:20:06Z",
       "updated_at": "2026-09-16T02:20:06Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/hermes-studio/releases/download/v0.7.22/latest.yml"
