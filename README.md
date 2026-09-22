@@ -14,11 +14,11 @@ x install hermes-web-ui
 
 ## Code insight
 
-Total: **480,569** lines of code across **1898** files in the top 5 languages.
+Total: **480,796** lines of code across **1901** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 384,297 | 4,383 | 34,571 | 1629 |
+| TypeScript | 384,524 | 4,401 | 34,590 | 1632 |
 | Json | 54,196 | 0 | 2 | 26 |
 | Cpp | 12,368 | 4 | 940 | 2 |
 | Python | 11,325 | 266 | 1,529 | 46 |
@@ -38,22 +38,22 @@ Total: **480,569** lines of code across **1898** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,155 · **Forks**: 1,367 · **Open issues**: 1,284 · **Contributors**: 98
+- **Stars**: 11,166 · **Forks**: 1,368 · **Open issues**: 1,286 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 137 · **Merged PRs**: 1339 · **Open PRs**: 101 · **Closed issues**: 975 · **Open issues**: 309 · **Commits**: 1513
+- **Releases**: 137 · **Merged PRs**: 1344 · **Open PRs**: 100 · **Closed issues**: 976 · **Open issues**: 310 · **Commits**: 1518
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 41 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 59 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-23 | 24 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 41 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 58 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for hermes-web-ui lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:44:41Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:42:23Z._
