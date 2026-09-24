@@ -14,12 +14,12 @@ x install hermes-web-ui
 
 ## Code insight
 
-Total: **483,726** lines of code across **1918** files in the top 5 languages.
+Total: **485,338** lines of code across **1927** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 386,288 | 4,427 | 34,702 | 1646 |
-| Json | 54,982 | 0 | 2 | 27 |
+| TypeScript | 387,725 | 4,449 | 34,779 | 1655 |
+| Json | 55,153 | 0 | 2 | 27 |
 | Cpp | 12,368 | 4 | 940 | 2 |
 | Python | 11,359 | 268 | 1,535 | 47 |
 | Vue | 8,823 | 54 | 631 | 196 |
@@ -38,22 +38,22 @@ Total: **483,726** lines of code across **1918** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,183 · **Forks**: 1,374 · **Open issues**: 1,287 · **Contributors**: 98
+- **Stars**: 11,185 · **Forks**: 1,374 · **Open issues**: 1,290 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 1351 · **Open PRs**: 101 · **Closed issues**: 976 · **Open issues**: 311 · **Commits**: 1525
+- **Releases**: 138 · **Merged PRs**: 1353 · **Open PRs**: 102 · **Closed issues**: 976 · **Open issues**: 314 · **Commits**: 1527
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 24 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 41 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-25 | 57 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-25 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 41 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-26 | 56 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-04 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for hermes-web-ui lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:47:59Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:23:16Z._
