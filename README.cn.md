@@ -14,14 +14,14 @@ x install hermes-web-ui
 
 ## 代码洞察
 
-合计: **553,990** 行代码（覆盖前 5 种语言、共 **2242** 个文件）。
+合计: **558,035** 行代码（覆盖前 5 种语言、共 **2265** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 445,024 | 5,322 | 38,247 | 2096 |
-| Json | 62,301 | 0 | 2 | 32 |
+| TypeScript | 448,116 | 5,361 | 38,449 | 2116 |
+| Json | 63,068 | 0 | 2 | 33 |
 | Cpp | 12,368 | 4 | 940 | 2 |
-| JavaScript | 11,776 | 215 | 774 | 65 |
+| JavaScript | 11,898 | 218 | 777 | 67 |
 | Python | 11,618 | 295 | 1,554 | 47 |
 
 ## 源代码
@@ -32,61 +32,59 @@ x install hermes-web-ui
 
 ## 发布
 
-- **最新版本**: `v0.7.36` (2026-10-15)
-- **最近提交**: 2026-10-18
-- **Release 含资产**: 28 个
+- **最新版本**: `v0.7.37` (2026-10-19)
+- **最近提交**: 2026-10-20
+- **Release 含资产**: 26 个
 
 ## 流行度
 
-- **Star**: 11,465 · **Fork**: 1,416 · **开放 issue**: 1,364 · **贡献者**: 109
+- **Star**: 11,475 · **Fork**: 1,418 · **开放 issue**: 1,371 · **贡献者**: 109
 
 ## 累计统计
 
-- **发布数**: 158 · **已合并 PR**: 1498 · **开放 PR**: 133 · **已关闭 issue**: 1015 · **开放 issue**: 349 · **提交数**: 1672
+- **发布数**: 160 · **已合并 PR**: 1509 · **开放 PR**: 139 · **已关闭 issue**: 1016 · **开放 issue**: 355 · **提交数**: 1682
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 46 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-21 | 64 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-24 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-20 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 48 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-22 | 64 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-23 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-30 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [com.hermeswebui.studio_0.7.36_x86_64-review2.deb](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/com.hermeswebui.studio_0.7.36_x86_64-review2.deb) | 104.2 MiB | `other` |
-| [com.hermeswebui.studio_0.7.36_x86_64-review2.deb.sha256](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/com.hermeswebui.studio_0.7.36_x86_64-review2.deb.sha256) | 115 B | `other` |
-| [com.hermeswebui.studio_0.7.36_x86_64.deb](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/com.hermeswebui.studio_0.7.36_x86_64.deb) | 156.0 MiB | `other` |
-| [com.hermeswebui.studio_0.7.36_x86_64.deb.sha256](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/com.hermeswebui.studio_0.7.36_x86_64.deb.sha256) | 107 B | `other` |
-| [com.hermeswebui.studio_0.7.36_x86_64.deb.verification.json](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/com.hermeswebui.studio_0.7.36_x86_64.deb.verification.json) | 346 B | `other` |
-| [Ekko.Studio-0.7.36-amd64.deb](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-amd64.deb) | 168.8 MiB | `other` |
-| [Ekko.Studio-0.7.36-arm64.AppImage](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-arm64.AppImage) | 227.6 MiB | `other` |
-| [Ekko.Studio-0.7.36-arm64.dmg](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-arm64.dmg) | 234.6 MiB | `other` |
-| [Ekko.Studio-0.7.36-arm64.dmg.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-arm64.dmg.blockmap) | 250.7 KiB | `other` |
-| [Ekko.Studio-0.7.36-arm64.exe](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-arm64.exe) | 184.4 MiB | `other` |
-| [Ekko.Studio-0.7.36-arm64.exe.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-arm64.exe.blockmap) | 193.6 KiB | `other` |
-| [Ekko.Studio-0.7.36-arm64.zip](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-arm64.zip) | 237.2 MiB | `other` |
-| [Ekko.Studio-0.7.36-arm64.zip.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-arm64.zip.blockmap) | 240.2 KiB | `other` |
-| [Ekko.Studio-0.7.36-x64.dmg](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-x64.dmg) | 240.9 MiB | `other` |
-| [Ekko.Studio-0.7.36-x64.dmg.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-x64.dmg.blockmap) | 255.9 KiB | `other` |
-| [Ekko.Studio-0.7.36-x64.exe](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-x64.exe) | 186.4 MiB | `other` |
-| [Ekko.Studio-0.7.36-x64.exe.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-x64.exe.blockmap) | 196.0 KiB | `other` |
-| [Ekko.Studio-0.7.36-x64.zip](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-x64.zip) | 243.6 MiB | `other` |
-| [Ekko.Studio-0.7.36-x64.zip.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-x64.zip.blockmap) | 249.3 KiB | `other` |
-| [Ekko.Studio-0.7.36-x86_64.AppImage](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/Ekko.Studio-0.7.36-x86_64.AppImage) | 224.3 MiB | `other` |
-| [hermes-web-ui-0.7.36.json](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/hermes-web-ui-0.7.36.json) | 254 B | `other` |
-| [hermes-web-ui-0.7.36.tar.gz](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/hermes-web-ui-0.7.36.tar.gz) | 131.7 MiB | `native/unknown` |
-| [hermes-web-ui-0.7.36.tar.gz.sha256](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/hermes-web-ui-0.7.36.tar.gz.sha256) | 94 B | `other` |
-| [latest-arm64.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/latest-arm64.yml) | 354 B | `other` |
-| [latest-linux-arm64.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/latest-linux-arm64.yml) | 389 B | `native/linux/arm64` |
-| [latest-linux.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/latest-linux.yml) | 391 B | `other` |
-| [latest-mac.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/latest-mac.yml) | 827 B | `other` |
-| [latest.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.36/latest.yml) | 350 B | `other` |
+| [com.hermeswebui.studio_0.7.37_x86_64.deb](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/com.hermeswebui.studio_0.7.37_x86_64.deb) | 171.6 MiB | `other` |
+| [com.hermeswebui.studio_0.7.37_x86_64.deb.sha256](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/com.hermeswebui.studio_0.7.37_x86_64.deb.sha256) | 107 B | `other` |
+| [com.hermeswebui.studio_0.7.37_x86_64.deb.verification.json](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/com.hermeswebui.studio_0.7.37_x86_64.deb.verification.json) | 348 B | `other` |
+| [Ekko.Studio-0.7.37-amd64.deb](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-amd64.deb) | 180.3 MiB | `other` |
+| [Ekko.Studio-0.7.37-arm64.AppImage](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.AppImage) | 243.5 MiB | `other` |
+| [Ekko.Studio-0.7.37-arm64.dmg](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.dmg) | 255.6 MiB | `other` |
+| [Ekko.Studio-0.7.37-arm64.dmg.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.dmg.blockmap) | 272.2 KiB | `other` |
+| [Ekko.Studio-0.7.37-arm64.exe](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.exe) | 184.4 MiB | `other` |
+| [Ekko.Studio-0.7.37-arm64.exe.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.exe.blockmap) | 193.9 KiB | `other` |
+| [Ekko.Studio-0.7.37-arm64.zip](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.zip) | 258.2 MiB | `other` |
+| [Ekko.Studio-0.7.37-arm64.zip.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-arm64.zip.blockmap) | 264.0 KiB | `other` |
+| [Ekko.Studio-0.7.37-x64.dmg](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.dmg) | 261.9 MiB | `other` |
+| [Ekko.Studio-0.7.37-x64.dmg.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.dmg.blockmap) | 279.8 KiB | `other` |
+| [Ekko.Studio-0.7.37-x64.exe](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.exe) | 193.4 MiB | `other` |
+| [Ekko.Studio-0.7.37-x64.exe.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.exe.blockmap) | 203.7 KiB | `other` |
+| [Ekko.Studio-0.7.37-x64.zip](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.zip) | 264.7 MiB | `other` |
+| [Ekko.Studio-0.7.37-x64.zip.blockmap](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-x64.zip.blockmap) | 270.9 KiB | `other` |
+| [Ekko.Studio-0.7.37-x86_64.AppImage](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/Ekko.Studio-0.7.37-x86_64.AppImage) | 240.0 MiB | `other` |
+| [hermes-web-ui-0.7.37.json](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/hermes-web-ui-0.7.37.json) | 254 B | `other` |
+| [hermes-web-ui-0.7.37.tar.gz](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/hermes-web-ui-0.7.37.tar.gz) | 147.3 MiB | `native/unknown` |
+| [hermes-web-ui-0.7.37.tar.gz.sha256](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/hermes-web-ui-0.7.37.tar.gz.sha256) | 94 B | `other` |
+| [latest-arm64.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/latest-arm64.yml) | 354 B | `other` |
+| [latest-linux-arm64.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/latest-linux-arm64.yml) | 389 B | `native/linux/arm64` |
+| [latest-linux.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/latest-linux.yml) | 391 B | `other` |
+| [latest-mac.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/latest-mac.yml) | 827 B | `other` |
+| [latest.yml](https://github.com/EKKOLearnAI/hermes-web-ui/releases/download/v0.7.37/latest.yml) | 350 B | `other` |
 
 ## 改进这些数据
 
@@ -97,4 +95,4 @@ hermes-web-ui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T05:17:55Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T05:28:46Z._
