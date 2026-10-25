@@ -14,14 +14,14 @@ x install hermes-web-ui
 
 ## Code insight
 
-Total: **559,263** lines of code across **2310** files in the top 5 languages.
+Total: **562,350** lines of code across **2333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 449,691 | 5,444 | 38,345 | 2158 |
+| TypeScript | 452,545 | 5,575 | 38,520 | 2180 |
 | Json | 62,682 | 0 | 2 | 32 |
 | Cpp | 12,368 | 4 | 940 | 2 |
-| JavaScript | 12,015 | 234 | 778 | 71 |
+| JavaScript | 12,248 | 236 | 780 | 72 |
 | Python | 11,618 | 295 | 1,554 | 47 |
 
 ## Source
@@ -38,22 +38,22 @@ Total: **559,263** lines of code across **2310** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,525 · **Forks**: 1,429 · **Open issues**: 1,391 · **Contributors**: 110
+- **Stars**: 11,537 · **Forks**: 1,432 · **Open issues**: 1,396 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 162 · **Merged PRs**: 1545 · **Open PRs**: 138 · **Closed issues**: 1022 · **Open issues**: 369 · **Commits**: 1718
+- **Releases**: 162 · **Merged PRs**: 1548 · **Open PRs**: 143 · **Closed issues**: 1022 · **Open issues**: 374 · **Commits**: 1721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 24 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 47 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-26 | 65 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-25 | 24 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 47 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-27 | 65 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-04 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for hermes-web-ui lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:21:35Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:22:13Z._
