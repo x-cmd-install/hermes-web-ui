@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 244474064,
       "digest": "sha256:2b44964640feb062b527d2889ff5f5941e02e7aca79f2ff3ca9024e891313864",
-      "download_count": 18,
+      "download_count": 57,
       "created_at": "2026-11-20T00:56:46Z",
       "updated_at": "2026-11-20T00:56:55Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 315054322,
       "digest": "sha256:bb5b12085759cc417ba3611587d319fdaebd349d76d3b9af7d51c8774a5a14b4",
-      "download_count": 6,
+      "download_count": 17,
       "created_at": "2026-11-20T00:55:05Z",
       "updated_at": "2026-11-20T00:55:13Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-arm64.AppImage"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 328858434,
       "digest": "sha256:b3c69728a4b0001c9beac7b65c103c6e111d1d2ffc576efe7da1797b13705d50",
-      "download_count": 20,
+      "download_count": 112,
       "created_at": "2026-11-20T01:04:34Z",
       "updated_at": "2026-11-20T01:04:50Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-arm64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 338948,
       "digest": "sha256:b5a4b5298f6640f7d09cb5a72121be8eb88d3581fdddebdb234a3814c36e9d12",
-      "download_count": 5,
+      "download_count": 13,
       "created_at": "2026-11-20T01:04:34Z",
       "updated_at": "2026-11-20T01:04:34Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-arm64.dmg.blockmap"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 247710434,
       "digest": "sha256:d4d7e38b8e3a72b4458233303930af4b541f0b3401fcdc6842a4c50905243f85",
-      "download_count": 10,
+      "download_count": 30,
       "created_at": "2026-11-20T01:06:07Z",
       "updated_at": "2026-11-20T01:06:19Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-arm64.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 255904,
       "digest": "sha256:875e61996f0c350fac47ec989b3885115a84ace32e792e4740255eecf4a8a12a",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-11-20T01:06:07Z",
       "updated_at": "2026-11-20T01:06:07Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-arm64.exe.blockmap"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 330369528,
       "digest": "sha256:ab80968fbb1fa86faf05fe845cae92e1d7dc1b1888c58822a04b1e395acf9c83",
-      "download_count": 74,
+      "download_count": 201,
       "created_at": "2026-11-20T01:04:34Z",
       "updated_at": "2026-11-20T01:04:48Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 332267,
       "digest": "sha256:d77c2c52d7f6eab6a55ca931e2c8c884c3276fa13f9777b3d1c2b21586a32222",
-      "download_count": 58,
+      "download_count": 157,
       "created_at": "2026-11-20T01:04:34Z",
       "updated_at": "2026-11-20T01:04:35Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-arm64.zip.blockmap"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 335501421,
       "digest": "sha256:53b35d546851dfd9789ff99dcb40ab6efeb0d71fe12872d021cfa51d00cc4f9b",
-      "download_count": 8,
+      "download_count": 31,
       "created_at": "2026-11-20T01:04:17Z",
       "updated_at": "2026-11-20T01:04:36Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-x64.dmg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 345465,
       "digest": "sha256:ed7b98ec3514bd8f1ba015f18d32d043d3a3b835f2c9de3e70c871c3072595b5",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-11-20T01:04:17Z",
       "updated_at": "2026-11-20T01:04:18Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-x64.dmg.blockmap"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 257198548,
       "digest": "sha256:1325d1e60216df4e5e531b79fc13ef1fccf934f86cc271e1cbca5da6969be011",
-      "download_count": 389,
+      "download_count": 1121,
       "created_at": "2026-11-20T00:57:07Z",
       "updated_at": "2026-11-20T00:57:14Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-x64.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 265737,
       "digest": "sha256:1529c9bc714f35e996b6ce71948a0f27e9d411e2a67fa0ec1754086fca3a695a",
-      "download_count": 335,
+      "download_count": 879,
       "created_at": "2026-11-20T00:57:07Z",
       "updated_at": "2026-11-20T00:57:08Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-x64.exe.blockmap"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 337158807,
       "digest": "sha256:74c9722375c7c6dc1a28b4cffe56bf28041607879a3434eda4765d9ae5121475",
-      "download_count": 22,
+      "download_count": 77,
       "created_at": "2026-11-20T01:04:17Z",
       "updated_at": "2026-11-20T01:04:41Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-x64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 341981,
       "digest": "sha256:a5265c7eff7ed5fc18a0e902c958d97813211576a4ca63eb9bf01283773c0950",
-      "download_count": 11,
+      "download_count": 37,
       "created_at": "2026-11-20T01:04:17Z",
       "updated_at": "2026-11-20T01:04:18Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-x64.zip.blockmap"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 311374414,
       "digest": "sha256:5c6ddd1fa874cbe0961e82f953612ccbd20fbbf55253557aadb2931c2ee5428b",
-      "download_count": 31,
+      "download_count": 53,
       "created_at": "2026-11-20T00:56:46Z",
       "updated_at": "2026-11-20T00:56:56Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/Ekko.Studio-0.8.29-x86_64.AppImage"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 254,
       "digest": "sha256:13ed9cc4f5294f8d20f492e723118ca8ff2498dedfd3b597999bdb8369a3f52a",
-      "download_count": 8,
+      "download_count": 21,
       "created_at": "2026-11-20T00:54:40Z",
       "updated_at": "2026-11-20T00:54:40Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/hermes-web-ui-0.8.29.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 214446164,
       "digest": "sha256:b22c4ca8810b22f5a3ae611581238be6a86e52169bab203d525a681cdf06c2bd",
-      "download_count": 14,
+      "download_count": 45,
       "created_at": "2026-11-20T00:54:40Z",
       "updated_at": "2026-11-20T00:54:47Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/hermes-web-ui-0.8.29.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 94,
       "digest": "sha256:272183e91e3ba83112783fc4d95475a5f050dc50deb6a06e56c2e5c35361da31",
-      "download_count": 86,
+      "download_count": 393,
       "created_at": "2026-11-20T00:54:40Z",
       "updated_at": "2026-11-20T00:54:40Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/hermes-web-ui-0.8.29.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 354,
       "digest": "sha256:5486324bc064a647de2f87712b02818402a14ec0dbe951c7edd8a140dc6614f7",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-11-20T01:06:07Z",
       "updated_at": "2026-11-20T01:06:07Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/latest-arm64.yml"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 389,
       "digest": "sha256:2e11d1f3bbc8c7a7c3b9482e5dd1f99a5b8b1c75e32eddc5de393a9af9a60dd5",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-11-20T00:55:05Z",
       "updated_at": "2026-11-20T00:55:06Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/latest-linux-arm64.yml"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 391,
       "digest": "sha256:33bf4a4c90e2f8288967f179535b4e63d852db13f869706d99497f0a5b31fec2",
-      "download_count": 45,
+      "download_count": 151,
       "created_at": "2026-11-20T00:56:46Z",
       "updated_at": "2026-11-20T00:56:46Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/latest-linux.yml"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 827,
       "digest": "sha256:6125491174e0930befa4fd7a820222b80d591e87baf3c7c9e8930e20be128642",
-      "download_count": 273,
+      "download_count": 940,
       "created_at": "2026-11-20T01:06:50Z",
       "updated_at": "2026-11-20T01:06:50Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/latest-mac.yml"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 350,
       "digest": "sha256:b2552b5db55021aa1591844a5a02b30b1f18d9f8ec6c70f65b3fab8b0ab6e2c4",
-      "download_count": 1072,
+      "download_count": 3251,
       "created_at": "2026-11-20T00:57:07Z",
       "updated_at": "2026-11-20T00:57:08Z",
       "browser_download_url": "https://github.com/EKKOLearnAI/ekko-studio/releases/download/v0.8.29/latest.yml"
