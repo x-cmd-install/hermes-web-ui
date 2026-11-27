@@ -38,22 +38,22 @@ Total: **388,490** lines of code across **1791** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,826 · **Forks**: 1,478 · **Open issues**: 1,498 · **Contributors**: 112
+- **Stars**: 11,831 · **Forks**: 1,477 · **Open issues**: 1,498 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 1772 · **Open PRs**: 177 · **Closed issues**: 1062 · **Open issues**: 436 · **Commits**: 1944
+- **Releases**: 190 · **Merged PRs**: 1772 · **Open PRs**: 178 · **Closed issues**: 1062 · **Open issues**: 436 · **Commits**: 1944
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 52 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 75 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 75 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for hermes-web-ui lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:46:13Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:08:50Z._
